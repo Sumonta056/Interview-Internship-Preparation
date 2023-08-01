@@ -20,5 +20,5 @@
 
 ## 👋 Google Top Interview Question (Leetcode)
 
-- **🍕 Question Links ([👉 Click Here ](https://drive.google.com/drive/folders/17TTBRc5PJzHC5caYaIHguZHmfa1ODx_C))**
+- **🍕 Question Links ([👉 Click Here ](Google-Interview-Questions/Readme.md))**
 
