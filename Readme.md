@@ -15,6 +15,10 @@
 - **🙁 60 Days DSA Challenge ([👉 Click Here ](Challenge/60Days%20DSA%20Challenge%20Questions.pdf))**
 - **😯 Topic Based DSA Challenge ([👉 Click Here ](Challenge/DSA-TopicBased-InterviewQuestion.pdf))**
 
+## 😮 Interview Viva Sample Questions
+
+- **😼 Question Links ([👉 Click Here ](Viva-Question/Interview%20Viva%20Question.pdf))**
+
 ## ✍️ Interships Reports
 
 - **🔔 17 Drive Link ([👉 Click Here ](https://drive.google.com/drive/folders/17TTBRc5PJzHC5caYaIHguZHmfa1ODx_C))**
