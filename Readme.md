@@ -8,12 +8,12 @@
 - **5️⃣ Solve Leet Code Interview Questions ([👉 Click Here ](https://leetcode.com/))**
 
 
-## 🥵 Challenge 
+## 🥵 Coding Challenge 
 
-- **😴 50 Coding Interview Question😴**
-- **😊 50 Days DSA Challenge 😊**
-- **🙁 60 Days DSA Challenge 🙁**
-- **😯 Topic Based DSA Challenge 😯**
+- **😴 50 Coding Interview Question ([👉 Click Here ](Challenge/50Coding_InterviewQuestion.pdf))**
+- **😊 50 Days DSA Challenge ([👉 Click Here ](Challenge/50Days_DSA_Challenge_Basic_To_Hard.pdf))**
+- **🙁 60 Days DSA Challenge ([👉 Click Here ](Challenge/60Days%20DSA%20Challenge%20Questions.pdf))**
+- **😯 Topic Based DSA Challenge ([👉 Click Here ](Challenge/DSA-TopicBased-InterviewQuestion.pdf))**
 
 ## ✍️ Interships Reports
 
