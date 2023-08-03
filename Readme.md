@@ -14,8 +14,9 @@
 - **😊 50 Days DSA Challenge ([👉 Click Here ](Challenge/50Days_DSA_Challenge_Basic_To_Hard.pdf))**
 - **🙁 60 Days DSA Challenge ([👉 Click Here ](Challenge/60Days%20DSA%20Challenge%20Questions.pdf))**
 - **😯 Topic Based DSA Challenge ([👉 Click Here ](Challenge/DSA-TopicBased-InterviewQuestion.pdf))**
+- **🛺 75 LeetCode Question Solve Challenge ([👉 Click Here ](Challenge/75%20LeetCode%20Challenge.pdf))**
 
-## 😮 Interview Viva Sample Questions
+## 💥 Interview Viva Sample Questions
 
 - **😼 Question Links ([👉 Click Here ](Viva-Question/Interview%20Viva%20Question.pdf))**
 
