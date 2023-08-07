@@ -28,3 +28,12 @@
 
 - **🍕 Question Links ([👉 Click Here ](Google-Interview-Questions/Readme.md))**
 
+## 🐺 Top 10 algorithms in Interview Questions
+
+- **😏 Resources ([👉 Click Here ](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/d))**
+
+## ⛷️ Useful Skill Test Challenge
+
+- **✨ Linkedin Assesment Challenge ([👉 Solution ](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))**
+
+- **🎀 HackerRank Coding Challenge ([👉 Solution ]())**
